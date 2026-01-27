@@ -123,7 +123,7 @@ const muntazir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=onestar&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
