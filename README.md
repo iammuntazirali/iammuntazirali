@@ -1,123 +1,144 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muntazir%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+<!-- Animated Header with 3D Effect -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Muntazir%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20|%20Turning%20Ideas%20into%20Reality&descAlignY=55&descSize=16"/>
+
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave"/>
+
 </div>
 
-<!-- Animated Typing -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Passionate+Problem+Solver+%F0%9F%A7%A9;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Animated Intro -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hey+there!+I'm+Muntazir+%F0%9F%91%8B;Welcome+to+my+Digital+Space+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
-<!-- Social Badges -->
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Advocate+%F0%9F%8C%9F;Tech+Enthusiast+%26+Innovator+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
+<!-- Social Icons - Animated -->
+<p align="center">
   <a href="https://linkedin.com/in/iammuntazirali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/iammuntazirali">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/iammuntazirali">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="mailto:muntazirali2018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
   </a>
   <a href="https://github.com/iammuntazirali">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=iammuntazirali&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iammuntazirali&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/iammuntazirali?tab=followers">
+    <img src="https://img.shields.io/github/followers/iammuntazirali?style=for-the-badge&color=06B6D4&labelColor=1a1a2e&logo=github&label=Followers" alt="Followers"/>
+  </a>
+</p>
 
 <br/>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- About Me with Animation -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="30"> About Me
 
-```javascript
-const muntazir = {
-    pronouns: "He" | "Him",
-    location: "🌍 Earth",
-    currentFocus: "Building cool stuff",
-    education: "Computer Science",
-    
-    skills: {
-        languages: ["C++", "Python", "JavaScript", "TypeScript"],
-        frontend: ["React", "Next.js", "TailwindCSS", "HTML/CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Git", "Linux", "AWS"],
-        tools: ["VS Code", "Postman", "Figma"]
-    },
-    
-    currentlyLearning: ["System Design", "Cloud Architecture"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
+<p align="left">
+
+```typescript
+class Developer {
+  name: string = "Muntazir Ali";
+  title: string = "Full Stack Developer";
+  location: string = "🌍 Planet Earth";
+  
+  skills = {
+    languages: ["TypeScript", "Python", "C++", "Java"],
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "Express", "FastAPI"],
+    database: ["MongoDB", "PostgreSQL", "Redis"],
+    devOps: ["Docker", "AWS", "Linux", "Git"],
+  };
+  
+  currentlyWorking: string = "Building something awesome 🚀";
+  learning: string[] = ["System Design", "Cloud Architecture"];
+  
+  funFact(): string {
+    return "I code best with ☕ and 🎵 lo-fi beats!";
+  }
+}
 ```
+
+</p>
 
 <br clear="both"/>
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- Tech Stack with Icons -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3z7e32k5i9&rid=giphy.gif" width="28"> Tech Arsenal
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🎯 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java&theme=dark" alt="Languages"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass&theme=dark" alt="Frontend"/>
+</p>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgres,redis&theme=dark" alt="Backend"/>
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,vscode,postman,figma&theme=dark" alt="Tools"/>
+</p>
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammuntazirali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuntazirali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iammuntazirali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&ring_color=8B5CF6" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuntazirali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
-<!-- GitHub Streak -->
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 </div>
+
+<br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammuntazirali&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammuntazirali&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
@@ -128,37 +149,34 @@ const muntazir = {
 
 ---
 
-<!-- Current Focus -->
-## 🎯 Current Focus
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<table align="center">
-  <tr>
-    <td>🔭 Working on</td>
-    <td>Personal Projects & Open Source</td>
-  </tr>
-  <tr>
-    <td>🌱 Learning</td>
-    <td>System Design & Cloud Architecture</td>
-  </tr>
-  <tr>
-    <td>👯 Looking to</td>
-    <td>Collaborate on interesting projects</td>
-  </tr>
-  <tr>
-    <td>💬 Ask me about</td>
-    <td>Web Development, DSA, Problem Solving</td>
-  </tr>
-  <tr>
-    <td>⚡ Fun fact</td>
-    <td>I turn ☕ into &lt;code/&gt;</td>
-  </tr>
-</table>
+<!-- What I'm Up To -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> What I'm Up To
+
+<div align="center">
+
+| 🎯 Focus | 📌 Details |
+|:--------:|:----------:|
+| 🔭 **Working On** | Personal Projects & Open Source Contributions |
+| 🌱 **Learning** | System Design, Cloud Architecture & DevOps |
+| 👯 **Collaborating** | Exciting Open Source Projects |
+| 💬 **Ask Me About** | Web Dev, DSA, Competitive Programming |
+| ⚡ **Fun Fact** | I turn ☕ caffeine into `< code />` |
+
+</div>
 
 ---
 
-<!-- Quote -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- Spotify / Quote Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  ## 💭 Dev Wisdom
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote"/>
+
 </div>
 
 ---
@@ -168,38 +186,47 @@ const muntazir = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-<!-- Connect Section -->
-## 🤝 Let's Connect!
-
+<!-- Connect Section with Animation -->
 <div align="center">
-  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
   
-  <a href="https://linkedin.com/in/iammuntazirali">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60"> Let's Build Something Amazing Together!
+  
+  <p>
+    <i>I'm always excited to connect with fellow developers and tech enthusiasts!</i>
+  </p>
+  
   <a href="mailto:muntazirali2018@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_Drop_me_an_Email-8B5CF6?style=for-the-badge" alt="Email"/>
   </a>
+  <a href="https://linkedin.com/in/iammuntazirali">
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-06B6D4?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+
 </div>
 
----
+<br/>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer"/>
 </div>
 
 <!-- Hidden Easter Egg -->
 <!--
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   Thanks for visiting my profile! You found the easter egg!  ║
-║   Have a wonderful day! 🎉                                    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   🎉 Congrats! You found the hidden message!                            ║
+║                                                                          ║
+║   "Code is like humor. When you have to explain it, it's bad."          ║
+║                                        - Cory House                      ║
+║                                                                          ║
+║   Thanks for visiting my profile! Let's connect and build cool stuff!   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 -->
