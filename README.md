@@ -12,13 +12,16 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/iammuntazirali">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/iammuntazirali">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://instagram.com/iammuntazirali">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:muntazirali2018@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/iammuntazirali">
@@ -97,15 +100,18 @@ const muntazir = {
 ---
 
 <!-- GitHub Stats -->
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iammuntazirali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuntazirali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </div>
 
+<!-- GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <!-- Activity Graph -->
@@ -119,7 +125,9 @@ const muntazir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -129,7 +137,7 @@ const muntazir = {
 
 <table align="center">
   <tr>
-    <td>� Working on</td>
+    <td>🔭 Working on</td>
     <td>Personal Projects & Open Source</td>
   </tr>
   <tr>
@@ -176,8 +184,11 @@ const muntazir = {
 <div align="center">
   <p>I'm always open to interesting conversations and collaboration opportunities!</p>
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/iammuntazirali">
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muntazirali2018@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
