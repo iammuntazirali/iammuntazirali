@@ -119,11 +119,23 @@ const muntazir = {
 
 ---
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
+<!-- Skills & Achievements -->
+## 🏆 Skills & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+
+### 💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iammuntazirali)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/iammuntazirali)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/iammuntazirali)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iammuntazirali)
+
+### 🎯 What I Bring
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Expert-6C63FF?style=for-the-badge)
+![Team Player](https://img.shields.io/badge/Team_Player-✓-00C853?style=for-the-badge)
+![Fast Learner](https://img.shields.io/badge/Fast_Learner-✓-FF6B6B?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Advocate-FFD700?style=for-the-badge)
+
 </div>
 
 ---
