@@ -119,11 +119,18 @@ const muntazir = {
 
 ---
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
+<!-- Achievements -->
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  
+  <img src="https://img.shields.io/badge/🔥_Passionate-Developer-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Passionate Developer"/>
+  <img src="https://img.shields.io/badge/🧠_Problem-Solver-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="Problem Solver"/>
+  <img src="https://img.shields.io/badge/💻_Code-Enthusiast-00C853?style=for-the-badge&labelColor=1a1a2e" alt="Code Enthusiast"/>
+  <img src="https://img.shields.io/badge/🚀_Fast-Learner-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Fast Learner"/>
+  <img src="https://img.shields.io/badge/🤝_Team-Player-00BCD4?style=for-the-badge&labelColor=1a1a2e" alt="Team Player"/>
+  <img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-FF69B4?style=for-the-badge&labelColor=1a1a2e" alt="Open Source"/>
+
 </div>
 
 ---
