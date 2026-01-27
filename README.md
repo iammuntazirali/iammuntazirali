@@ -75,47 +75,39 @@
 
 <br/>
 
-<!-- About Section with Animated GIF -->
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+<!-- About Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="35"/> About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="30"/> About Me
-
-```javascript
-const muntazir = {
-    title: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
-    askMeAbout: ["web dev", "dsa", "tech", "coffee"],
-    
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Sass", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "AWS", "Linux", "Git"]
-    },
-    
-    currentOccupation: "Building digital experiences",
-    funFact: "There are 2 types of people: those who can extrapolate from incomplete data"
-};
-```
-
-</td>
-<td width="45%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-</td>
-</tr>
-</table>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+### 👨‍💻 Who Am I?
+
+> *A passionate developer who loves turning ideas into reality through code*
+
+<br/>
+
+- 🔭 Currently working on **exciting personal projects**
+- 🌱 Learning **System Design & Cloud Architecture**
+- 💬 Ask me about **Web Dev, DSA, Competitive Programming**
+- 🎯 Goal: **Contribute to Open Source & Build Impactful Products**
+- ⚡ Fun fact: **I debug better at 2 AM with coffee ☕**
+
+<br/>
+
+### 🌟 Quick Highlights
+
+<p>
+  <img src="https://img.shields.io/badge/💼_Full_Stack-Developer-8B5CF6?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎓_Computer-Science-06B6D4?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏆_Problem-Solver-22C55E?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🚀_Fast-Learner-F59E0B?style=flat-square&labelColor=0d1117"/>
+</p>
+
+<br clear="both"/>
+
+<br/>
 
 <br/>
 
