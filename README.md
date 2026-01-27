@@ -109,9 +109,7 @@ const muntazir = {
 
 <!-- GitHub Streak -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888" alt="GitHub Streak"/>
 </div>
 
 <!-- Activity Graph -->
@@ -125,9 +123,7 @@ const muntazir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=onestar&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
