@@ -58,14 +58,6 @@ I'm a passionate **Open Source Developer** who believes in the power of communit
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammuntazirali&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
