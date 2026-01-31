@@ -49,12 +49,6 @@ I'm a passionate **Open Source Developer** who believes in the power of communit
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iammuntazirali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<br/>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=iammuntazirali&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/></a>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
