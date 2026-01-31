@@ -1,11 +1,6 @@
-<!-- Header Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muntazir+Ali" alt="Title"/>
-</h1>
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributor+%F0%9F%8C%9F;Full+Stack+Developer+%F0%9F%92%BB;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributor+%F0%9F%8C%9F;Full+Stack+Developer+%F0%9F%92%BB;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
@@ -19,14 +14,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iammuntazirali&style=flat-square&color=6C63FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/iammuntazirali?style=flat-square&color=6C63FF&logo=github" alt="Followers"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 I'm a passionate **Open Source Developer** who believes in the power of community-driven development.
 
