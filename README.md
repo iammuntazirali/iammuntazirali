@@ -19,7 +19,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
-I'm a passionate **Open Source Developer** who believes in the power of community-driven development.
+I'm a passionate **Full Stack Developer** who believes in the power of community-driven development.
 
 - 🔭 Building tools that help developers
 - 🌱 Always learning, always growing
@@ -59,7 +59,7 @@ I'm a passionate **Open Source Developer** who believes in the power of communit
 ## 🤝 Let's Connect
 
 <p align="center">
-  <i>Open to collaborating on interesting open source projects!</i>
+  <i>Open to collaborating on interesting projects!</i>
 </p>
 
 <p align="center">
